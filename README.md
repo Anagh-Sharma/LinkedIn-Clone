@@ -1,2 +1,2 @@
 # LinkedIn-Clone
-A clone of the LinkedIn website.
+An ongoing project to buid a clone of the LinkedIn website.
